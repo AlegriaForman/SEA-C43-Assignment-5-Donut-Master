@@ -1,0 +1,57 @@
+h1 {
+  color: white;
+  font-size: 65px;
+  text-align: center;
+  background-color:black;
+  width: 100%;
+  padding: 5px 0 5px 0;
+}
+
+#DonutMaster {
+  width: 100%;
+}
+
+.info {
+  border: 2;
+}
+
+.head {
+  background-color: #6d7b8d;
+  color: white;
+  font-size: 20px;
+}
+
+tr.even td, tr.even th {
+  background-color: #95b9c7;
+  text-align: center;
+  font-size: 18px;
+}
+
+tr.odd td, tr.odd th {
+  background-color: #bcc6cc;
+  text-align: center;
+  font-size: 18px;
+}
+
+body {
+  background: url(ttp://timali4man.com/Images/Donuts3.jpeg) no-repeat center;
+  background-size: cover;
+  height: 820px;
+  font-family: Arial Verdana Sans-serif;
+}
+
+tr, td {
+    font-size: 15px;
+}
+
+p {
+  color: white;
+  font-size: 35px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  padding: 5px 0 5px 0;
+  left: 0;
+}
